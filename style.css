@@ -36,7 +36,6 @@ nav img{
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 .tooltip .tooltiptext {
     width: 120px;
